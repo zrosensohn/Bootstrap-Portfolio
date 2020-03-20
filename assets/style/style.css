@@ -9,6 +9,13 @@ h1,h2,h3,h4,h5 {
     padding: 0.5rem;
 }
 
+
+
 footer {
     border-top: #4aaaa5 4px solid;
+}
+
+.card-img-overlay.overlay-banner a {
+    color: #ffffff;
+    font-weight: bold;
 }
